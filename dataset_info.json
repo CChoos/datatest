@@ -670,5 +670,13 @@
       "query": "input",
       "response": "output"
       }
+  },
+  "s_inno_2000": {
+    "hf_hub_url": "inno4g/semi_241017",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+      }
   }
 }
