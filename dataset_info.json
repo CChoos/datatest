@@ -678,5 +678,21 @@
       "query": "input",
       "response": "output"
       }
+  },
+  "p_inno_2000": {
+    "hf_hub_url": "inno4g/perc_240914",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+      }
+  },
+  "d_inno_2000": {
+    "hf_hub_url": "inno4g/dbw_240914",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+      }
   }
 }
